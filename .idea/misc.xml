@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/security-basics/pom.xml" />
         <option value="$PROJECT_DIR$/security-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/security-data-jpa/pom.xml" />
       </list>
     </option>
   </component>
