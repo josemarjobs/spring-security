@@ -10,7 +10,7 @@ import org.springframework.security.crypto.bcrypt.BCrypt
 class SecurityDataJpaApplication {
 
     @Bean
-    fun cli(userRepository: UserRepository) = CommandLineRunner {
+    fun runner(userRepository: UserRepository) = CommandLineRunner {
         userRepository.save(User(
                 username = "peterg",
                 password = BCrypt.hashpw("pass", BCrypt.gensalt()),
