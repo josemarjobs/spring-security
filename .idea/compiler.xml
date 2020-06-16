@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="security-data-jpa" />
-        <module name="security-basics" />
         <module name="security-jdbc" />
+        <module name="security-basics" />
+        <module name="spring-security-jwt" />
+        <module name="security-data-jpa" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="security-basics" target="1.8" />
       <module name="security-data-jpa" target="1.8" />
       <module name="security-jdbc" target="1.8" />
+      <module name="spring-security-jwt" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +24,7 @@
       <module name="security-basics" options="-parameters" />
       <module name="security-data-jpa" options="-parameters" />
       <module name="security-jdbc" options="-parameters" />
+      <module name="spring-security-jwt" options="-parameters" />
     </option>
   </component>
 </project>

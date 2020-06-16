@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/security-basics/src/main/kotlin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-data-jpa/src/main/kotlin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-jdbc/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-jwt/src/main/kotlin" charset="UTF-8" />
   </component>
 </project>

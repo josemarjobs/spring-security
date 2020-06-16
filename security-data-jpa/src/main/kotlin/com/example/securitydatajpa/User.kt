@@ -36,4 +36,3 @@ class MyUserDetails(private val user: User) : UserDetails {
 
     override fun isAccountNonLocked(): Boolean = true
 }
-

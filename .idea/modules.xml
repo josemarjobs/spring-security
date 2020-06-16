@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/security-basics/security-basics.iml" filepath="$PROJECT_DIR$/security-basics/security-basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-data-jpa/security-data-jpa.iml" filepath="$PROJECT_DIR$/security-data-jpa/security-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-jdbc/security-jdbc.iml" filepath="$PROJECT_DIR$/security-jdbc/security-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jwt/spring-security-jwt.iml" filepath="$PROJECT_DIR$/spring-security-jwt/spring-security-jwt.iml" />
     </modules>
   </component>
 </project>
